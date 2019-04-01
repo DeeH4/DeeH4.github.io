@@ -46,7 +46,7 @@ t*{
 #background1 {
     margin-top: 25px;
     background-color: #314158;
-    height: 530px;
+    height: 1170px;
 
 }
 
@@ -58,13 +58,131 @@ t*{
     padding-top: 20px;
     max-width: 100px;
     text-align: center;
-    
+    margin-bottom: 20px;
+    font-weight: bold;
 }
 
 #architecture {
     max-width: 960px;
     margin: auto;
 }
+
+#background2 {
+    margin-top: 49px;
+    background-color: #e9f0f7;
+    height: 1170px;
+
+}
+
+.title2 {
+    color: #101D29;
+    font-size: 0.95rem;
+    margin: auto;
+    display: grid;
+    padding-top: 20px;
+    max-width: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#botanical {
+    max-width: 960px;
+    margin: auto;
+}
+
+#background3 {
+    margin-top: 25px;
+    background-color: #314158;
+    height: 920px;
+}
+
+.title3 {
+    color: #e9f0f7;
+    font-size: 0.95rem;
+    margin: auto;
+    display: grid;
+    padding-top: 20px;
+    max-width: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#central {
+    max-width: 960px;
+    margin: auto;
+}
+
+#background4 {
+    margin-top: 40px;
+    background-color: #e9f0f7;
+    height: 920px;
+
+}
+
+.title4 {
+    color: #101D29;
+    font-size: 0.95rem;
+    margin: auto;
+    display: grid;
+    padding-top: 20px;
+    max-width: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#miscellaneous {
+    max-width: 960px;
+    margin: auto;
+}
+
+#background5 {
+    margin-top: 25px;
+    background-color: #314158;
+    height: 920px;
+}
+
+.title5 {
+    color: #e9f0f7;
+    font-size: 0.95rem;
+    margin: auto;
+    display: grid;
+    padding-top: 20px;
+    max-width: 150px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#clothing {
+    max-width: 960px;
+    margin: auto;
+}
+
+#background6 {
+    margin-top: 25px;
+    background-color: #e9f0f7;
+    height: 220px;
+}
+.title6 {
+    color: #101D29;
+    font-size: 0.95rem;
+    margin: auto;
+    display: grid;
+    padding-top: 20px;
+    max-width: 475px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#aboutme {
+    max-width: 960px;
+    margin: auto;
+}
+
     
 
     
