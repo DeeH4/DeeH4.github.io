@@ -164,7 +164,7 @@ t*{
 #background6 {
     margin-top: 25px;
     background-color: #e9f0f7;
-    height: 220px;
+    height: 245px;
 }
 .title6 {
     color: #101D29;
@@ -172,7 +172,7 @@ t*{
     margin: auto;
     display: grid;
     padding-top: 20px;
-    max-width: 475px;
+    max-width: 500px;
     text-align: center;
     margin-bottom: 20px;
     font-weight: bold;
@@ -181,6 +181,10 @@ t*{
 #aboutme {
     max-width: 960px;
     margin: auto;
+}
+
+p {
+    text-align: left;
 }
 
     
