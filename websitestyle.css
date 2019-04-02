@@ -44,7 +44,6 @@ t*{
 }
 
 #background1 {
-    margin-top: 25px;
     background-color: #314158;
     height: 1170px;
 
@@ -68,10 +67,8 @@ t*{
 }
 
 #background2 {
-    margin-top: 49px;
     background-color: #e9f0f7;
-    height: 1170px;
-
+    height: 920px;
 }
 
 .title2 {
@@ -92,7 +89,6 @@ t*{
 }
 
 #background3 {
-    margin-top: 25px;
     background-color: #314158;
     height: 920px;
 }
@@ -115,7 +111,6 @@ t*{
 }
 
 #background4 {
-    margin-top: 40px;
     background-color: #e9f0f7;
     height: 920px;
 
@@ -139,7 +134,6 @@ t*{
 }
 
 #background5 {
-    margin-top: 25px;
     background-color: #314158;
     height: 920px;
 }
@@ -162,7 +156,6 @@ t*{
 }
 
 #background6 {
-    margin-top: 25px;
     background-color: #e9f0f7;
     height: 245px;
 }
